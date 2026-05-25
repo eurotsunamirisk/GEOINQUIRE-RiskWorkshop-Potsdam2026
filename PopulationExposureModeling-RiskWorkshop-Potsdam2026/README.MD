@@ -1,13 +1,11 @@
 # GEO-INQUIRE PTRA Workshop
 
-Jupyter notebooks and supporting material for the GEO-INQUIRE Probabilistic Tsunami Risk Analysis (PTRA) workshop.
+Jupyter notebooks and supporting material for the Population xposure Modeling for GEO-INQUIRE Probabilistic Tsunami Risk Analysis (PTRA) workshop.
 
 ## Abstract
-
 This notebook presents a workflow for building high-resolution night-time and daytime population exposure models for tsunami risk applications. The workflow combines building footprints, OpenStreetMap attributes, WorldPop population rasters, and mobility-based assumptions to distribute population spatially and temporally within the study area of Marzamemi, Sicily.
 
 ## Workflow
-
 - Define the study-area bounding box
 - Load building footprints
 - Read OpenStreetMap building classifications
@@ -21,9 +19,10 @@ This notebook presents a workflow for building high-resolution night-time and da
 - Export final exposure datasets
 
 ## Requirements
-
 Install dependencies with:
-
 ```bash
 pip install -r requirements.txt
 ```
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
