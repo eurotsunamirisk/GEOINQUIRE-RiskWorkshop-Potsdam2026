@@ -2,6 +2,11 @@
 
 Welcome to the GEOINQUIRE Risk Workshop. This repository serves as the central entry point for the workshop materials, documentation, and software.
 
+## Lecture Notes
+
+The workshop lecture notes are available here:
+- **PTRA Lecture Notes**: https://github.com/eurotsunamirisk/PTRALectureNotes
+
 ## Workshop Repositories
 
 | Repository                                                                                                                                                                                                | Description                                              |
