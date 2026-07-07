@@ -1,6 +1,0 @@
-geopandas
-matplotlib
-numpy
-pandas
-rasterio
-shapely
